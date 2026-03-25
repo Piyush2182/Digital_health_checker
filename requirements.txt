@@ -1,0 +1,24 @@
+# requirements.txt
+# ─────────────────────────────────────────────────────────
+# These are all the Python packages this project needs.
+#
+# HOW TO INSTALL:
+#   pip install -r requirements.txt
+#
+# WHAT EACH PACKAGE DOES:
+# ─────────────────────────────────────────────────────────
+
+# requests — makes HTTP requests (like visiting a website from Python)
+requests>=2.28.0
+
+# beautifulsoup4 — parses HTML pages so we can search through them
+beautifulsoup4>=4.12.0
+
+# reportlab — creates PDF files with styled text, tables, and colors
+reportlab>=4.0.0
+
+# httpx — optional faster HTTP client (used for some async requests)
+# httpx>=0.24.0   # Uncomment if you want to add async features later
+
+# lxml — faster HTML/XML parser (optional, used by BeautifulSoup)
+# lxml>=4.9.0     # Uncomment for faster parsing (needs C compiler)
