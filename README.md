@@ -4,7 +4,7 @@ A free Python tool that audits how visible a local business is online —
 gives a score out of 100 and generates a PDF report with actionable tips.
 
 ---
-
+## view live project here https://digitalhealthchecker.streamlit.app/
 ## 📁 Project Structure
 
 ```
