@@ -100,7 +100,7 @@ print(f"Report saved at: {pdf_path}")
 - `reportlab` — PDF generation
 
 ---
-
+## Feel free to contribute and add useful features
 ## 💡 Ideas to Extend This Project
 
 - Add a **Streamlit web UI** so non-technical users can use it via browser
